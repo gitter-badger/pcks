@@ -1,4 +1,6 @@
 # pcks
+
+[![Join the chat at https://gitter.im/stone3311/pcks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stone3311/pcks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A package manager
 
 It can download, install, update and remove packages. You can easiely create your own package and mirror, just look at 
